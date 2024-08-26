@@ -1,0 +1,2 @@
+# PrismaM
+Nextjs with Prisma
